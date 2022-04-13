@@ -1,0 +1,3 @@
+/home/pecneb/repos/security_cam_v2/tests/DisplayImage/CMakeFiles/DisplayImage.dir
+/home/pecneb/repos/security_cam_v2/tests/DisplayImage/CMakeFiles/edit_cache.dir
+/home/pecneb/repos/security_cam_v2/tests/DisplayImage/CMakeFiles/rebuild_cache.dir

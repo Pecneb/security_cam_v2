@@ -1,0 +1,3 @@
+/home/pecneb/repos/security_cam_v2/tests/GettingStartedWithImages/CMakeFiles/GettingStartedWithImages.dir
+/home/pecneb/repos/security_cam_v2/tests/GettingStartedWithImages/CMakeFiles/edit_cache.dir
+/home/pecneb/repos/security_cam_v2/tests/GettingStartedWithImages/CMakeFiles/rebuild_cache.dir
