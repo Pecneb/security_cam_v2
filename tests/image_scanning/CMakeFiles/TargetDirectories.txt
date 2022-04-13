@@ -1,0 +1,3 @@
+/home/pecneb/repos/security_cam_v2/tests/image_scanning/CMakeFiles/scanimg.dir
+/home/pecneb/repos/security_cam_v2/tests/image_scanning/CMakeFiles/edit_cache.dir
+/home/pecneb/repos/security_cam_v2/tests/image_scanning/CMakeFiles/rebuild_cache.dir
