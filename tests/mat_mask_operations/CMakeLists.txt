@@ -1,0 +1,6 @@
+CMake_minimum_required(VERSION 2.8)
+project( mat_mask_operations )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( mat_mask_operations mat_mask_operations.cpp )
+target_link_libraries( mat_mask_operations ${OpenCV_LIBS} )

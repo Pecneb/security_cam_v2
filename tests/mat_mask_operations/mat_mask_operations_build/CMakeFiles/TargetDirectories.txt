@@ -1,0 +1,3 @@
+/home/pecneb/gitclones/security_cam_v2/tests/mat_mask_operations/mat_mask_operations_build/CMakeFiles/mat_mask_operations.dir
+/home/pecneb/gitclones/security_cam_v2/tests/mat_mask_operations/mat_mask_operations_build/CMakeFiles/edit_cache.dir
+/home/pecneb/gitclones/security_cam_v2/tests/mat_mask_operations/mat_mask_operations_build/CMakeFiles/rebuild_cache.dir

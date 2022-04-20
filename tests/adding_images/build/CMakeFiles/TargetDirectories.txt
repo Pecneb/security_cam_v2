@@ -1,0 +1,3 @@
+/home/pecneb/gitclones/security_cam_v2/tests/adding_images/build/CMakeFiles/adding_images.dir
+/home/pecneb/gitclones/security_cam_v2/tests/adding_images/build/CMakeFiles/edit_cache.dir
+/home/pecneb/gitclones/security_cam_v2/tests/adding_images/build/CMakeFiles/rebuild_cache.dir
